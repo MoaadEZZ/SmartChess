@@ -1,4 +1,4 @@
-Before executing, install needed libraries: Flask, scikit-learn, gensim, numpy, python-chess.
+Before executing, install needed libraries: Flask, scikit-learn, gensim, numpy, python-chess, tensorflow.
 
 # **Welcome to SmartChess.**
 
