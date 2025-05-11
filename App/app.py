@@ -20,3 +20,4 @@ def main_page():
     ranks = list(range(8, 0, -1))
 
     return render_template("MainView.html", board_state=board_state, files=files, ranks=ranks)
+

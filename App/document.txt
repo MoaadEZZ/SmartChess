@@ -1,0 +1,1000 @@
+ready to play? :: play_chess
+lookup the stock price of apple :: query_selection
+translate hello to french :: query_selection
+start a new chess match :: play_chess
+i'm bored :: chat
+how many countries are there? :: query_selection
+give me today's schedule :: query_selection
+how far is the moon? :: query_selection
+play against the computer :: play_chess
+translate hello to french :: query_selection
+define artificial intelligence :: query_selection
+what's your favorite movie? :: chat
+show me the best laptops :: query_selection
+search wikipedia :: query_selection
+move my queen :: play_chess
+move my queen :: play_chess
+say something funny :: chat
+what's your favorite movie? :: chat
+how do you feel? :: chat
+just wanted to say hi :: chat
+what's your favorite movie? :: chat
+find local restaurants :: query_selection
+play against the computer :: play_chess
+tell me a joke :: chat
+do you know any stories? :: chat
+how about a chess match? :: play_chess
+what is the capital of France? :: query_selection
+can we chat? :: chat
+set up the chess board :: play_chess
+move my queen :: play_chess
+i want to play chess :: play_chess
+give me today's schedule :: query_selection
+move the knight to f3 :: play_chess
+how do you feel? :: chat
+can we chat? :: chat
+give me today's schedule :: query_selection
+i want to play chess :: play_chess
+how's your day? :: chat
+define artificial intelligence :: query_selection
+can we play a game? :: play_chess
+i want to play chess :: play_chess
+can we have a conversation? :: chat
+can we play a game? :: play_chess
+move the knight to f3 :: play_chess
+can we have a conversation? :: chat
+give me today's schedule :: query_selection
+what's on your mind? :: chat
+show me the best laptops :: query_selection
+just wanted to say hi :: chat
+find local restaurants :: query_selection
+i challenge you in chess :: play_chess
+give me today's schedule :: query_selection
+how do you feel? :: chat
+show me the best laptops :: query_selection
+can we have a conversation? :: chat
+search wikipedia :: query_selection
+what's your favorite movie? :: chat
+just wanted to say hi :: chat
+play against the computer :: play_chess
+what's on your mind? :: chat
+how's your day? :: chat
+lookup the stock price of apple :: query_selection
+how do you feel? :: chat
+move my queen :: play_chess
+find local restaurants :: query_selection
+search wikipedia :: query_selection
+do you know any stories? :: chat
+search wikipedia :: query_selection
+move the knight to f3 :: play_chess
+search wikipedia :: query_selection
+how many countries are there? :: query_selection
+translate hello to french :: query_selection
+what's the weather like today? :: query_selection
+lookup the stock price of apple :: query_selection
+how many countries are there? :: query_selection
+start a new chess match :: play_chess
+play against the computer :: play_chess
+i want to play chess :: play_chess
+give me today's schedule :: query_selection
+can we chat? :: chat
+how's your day? :: chat
+let's talk :: chat
+let's talk :: chat
+show me the best laptops :: query_selection
+ready to play? :: play_chess
+tell me a joke :: chat
+what's the weather like today? :: query_selection
+do you know any stories? :: chat
+give me today's schedule :: query_selection
+move the knight to f3 :: play_chess
+translate hello to french :: query_selection
+ready to play? :: play_chess
+give me today's schedule :: query_selection
+i challenge you in chess :: play_chess
+move the knight to f3 :: play_chess
+i challenge you in chess :: play_chess
+move the knight to f3 :: play_chess
+what's the weather like today? :: query_selection
+move my queen :: play_chess
+do you know any stories? :: chat
+do you know any stories? :: chat
+i feel like playing chess :: play_chess
+i want to play chess :: play_chess
+can we play a game? :: play_chess
+how's your day? :: chat
+set up the chess board :: play_chess
+search for news :: query_selection
+move my queen :: play_chess
+let's play chess :: play_chess
+ready to play? :: play_chess
+can we play a game? :: play_chess
+move my queen :: play_chess
+how's your day? :: chat
+lookup the stock price of apple :: query_selection
+move the knight to f3 :: play_chess
+let's play chess :: play_chess
+show me the best laptops :: query_selection
+say something funny :: chat
+i'm bored :: chat
+show me the best laptops :: query_selection
+what's your favorite movie? :: chat
+just wanted to say hi :: chat
+what's on your mind? :: chat
+i'm bored :: chat
+find local restaurants :: query_selection
+play against the computer :: play_chess
+how far is the moon? :: query_selection
+define artificial intelligence :: query_selection
+give me today's schedule :: query_selection
+translate hello to french :: query_selection
+move the knight to f3 :: play_chess
+what is the capital of France? :: query_selection
+what's on your mind? :: chat
+what's your favorite movie? :: chat
+give me today's schedule :: query_selection
+i feel like playing chess :: play_chess
+what is the capital of France? :: query_selection
+start a new chess match :: play_chess
+ready to play? :: play_chess
+i want to play chess :: play_chess
+can we have a conversation? :: chat
+ready to play? :: play_chess
+i feel like playing chess :: play_chess
+search wikipedia :: query_selection
+can we play a game? :: play_chess
+let's talk :: chat
+move my queen :: play_chess
+start a new chess match :: play_chess
+i want to play chess :: play_chess
+tell me a joke :: chat
+can we chat? :: chat
+ready to play? :: play_chess
+i challenge you in chess :: play_chess
+translate hello to french :: query_selection
+how do you feel? :: chat
+can we chat? :: chat
+start a new chess match :: play_chess
+show me the best laptops :: query_selection
+move my queen :: play_chess
+let's talk :: chat
+search wikipedia :: query_selection
+let's talk :: chat
+just wanted to say hi :: chat
+move my queen :: play_chess
+define artificial intelligence :: query_selection
+what's the weather like today? :: query_selection
+start a new chess match :: play_chess
+i challenge you in chess :: play_chess
+what's on your mind? :: chat
+do you know any stories? :: chat
+ready to play? :: play_chess
+i'm bored :: chat
+i want to play chess :: play_chess
+find local restaurants :: query_selection
+give me today's schedule :: query_selection
+how about a chess match? :: play_chess
+tell me a joke :: chat
+what's the weather like today? :: query_selection
+can we have a conversation? :: chat
+what is the capital of France? :: query_selection
+i'm bored :: chat
+how far is the moon? :: query_selection
+show me the best laptops :: query_selection
+how far is the moon? :: query_selection
+i challenge you in chess :: play_chess
+translate hello to french :: query_selection
+how far is the moon? :: query_selection
+search wikipedia :: query_selection
+i'm bored :: chat
+start a new chess match :: play_chess
+translate hello to french :: query_selection
+i'm bored :: chat
+do you know any stories? :: chat
+play against the computer :: play_chess
+how's your day? :: chat
+what's your favorite movie? :: chat
+what's your favorite movie? :: chat
+i feel like playing chess :: play_chess
+define artificial intelligence :: query_selection
+i'm bored :: chat
+say something funny :: chat
+search wikipedia :: query_selection
+i challenge you in chess :: play_chess
+what's your favorite movie? :: chat
+how many countries are there? :: query_selection
+show me the best laptops :: query_selection
+can we play a game? :: play_chess
+can we chat? :: chat
+show me the best laptops :: query_selection
+how's your day? :: chat
+what is the capital of France? :: query_selection
+start a new chess match :: play_chess
+how many countries are there? :: query_selection
+i feel like playing chess :: play_chess
+give me today's schedule :: query_selection
+find local restaurants :: query_selection
+say something funny :: chat
+can we play a game? :: play_chess
+how about a chess match? :: play_chess
+tell me a joke :: chat
+just wanted to say hi :: chat
+can we have a conversation? :: chat
+show me the best laptops :: query_selection
+let's play chess :: play_chess
+play against the computer :: play_chess
+how many countries are there? :: query_selection
+move my queen :: play_chess
+what's on your mind? :: chat
+give me today's schedule :: query_selection
+move my queen :: play_chess
+what's your favorite movie? :: chat
+i challenge you in chess :: play_chess
+translate hello to french :: query_selection
+search for news :: query_selection
+lookup the stock price of apple :: query_selection
+play against the computer :: play_chess
+say something funny :: chat
+what's the weather like today? :: query_selection
+i challenge you in chess :: play_chess
+search wikipedia :: query_selection
+tell me a joke :: chat
+just wanted to say hi :: chat
+ready to play? :: play_chess
+what's the weather like today? :: query_selection
+what's on your mind? :: chat
+i'm bored :: chat
+what's the weather like today? :: query_selection
+ready to play? :: play_chess
+i want to play chess :: play_chess
+define artificial intelligence :: query_selection
+search for news :: query_selection
+let's play chess :: play_chess
+tell me a joke :: chat
+define artificial intelligence :: query_selection
+search for news :: query_selection
+lookup the stock price of apple :: query_selection
+translate hello to french :: query_selection
+how do you feel? :: chat
+give me today's schedule :: query_selection
+what is the capital of France? :: query_selection
+tell me a joke :: chat
+find local restaurants :: query_selection
+move the knight to f3 :: play_chess
+do you know any stories? :: chat
+search for news :: query_selection
+let's play chess :: play_chess
+set up the chess board :: play_chess
+how far is the moon? :: query_selection
+what's on your mind? :: chat
+lookup the stock price of apple :: query_selection
+how far is the moon? :: query_selection
+i feel like playing chess :: play_chess
+what's on your mind? :: chat
+let's talk :: chat
+how many countries are there? :: query_selection
+how do you feel? :: chat
+show me the best laptops :: query_selection
+i'm bored :: chat
+how about a chess match? :: play_chess
+can we play a game? :: play_chess
+tell me a joke :: chat
+how's your day? :: chat
+i'm bored :: chat
+show me the best laptops :: query_selection
+ready to play? :: play_chess
+what's your favorite movie? :: chat
+how far is the moon? :: query_selection
+can we have a conversation? :: chat
+search wikipedia :: query_selection
+how's your day? :: chat
+can we play a game? :: play_chess
+say something funny :: chat
+search wikipedia :: query_selection
+ready to play? :: play_chess
+can we have a conversation? :: chat
+translate hello to french :: query_selection
+what's your favorite movie? :: chat
+define artificial intelligence :: query_selection
+what's your favorite movie? :: chat
+what is the capital of France? :: query_selection
+what's your favorite movie? :: chat
+do you know any stories? :: chat
+start a new chess match :: play_chess
+show me the best laptops :: query_selection
+start a new chess match :: play_chess
+show me the best laptops :: query_selection
+i'm bored :: chat
+what is the capital of France? :: query_selection
+can we play a game? :: play_chess
+can we chat? :: chat
+what's your favorite movie? :: chat
+what is the capital of France? :: query_selection
+play against the computer :: play_chess
+what's on your mind? :: chat
+can we have a conversation? :: chat
+how many countries are there? :: query_selection
+start a new chess match :: play_chess
+i feel like playing chess :: play_chess
+how do you feel? :: chat
+show me the best laptops :: query_selection
+move the knight to f3 :: play_chess
+let's talk :: chat
+what's on your mind? :: chat
+what's the weather like today? :: query_selection
+what's your favorite movie? :: chat
+say something funny :: chat
+show me the best laptops :: query_selection
+translate hello to french :: query_selection
+can we chat? :: chat
+how about a chess match? :: play_chess
+how about a chess match? :: play_chess
+search for news :: query_selection
+move my queen :: play_chess
+what's the weather like today? :: query_selection
+how's your day? :: chat
+how's your day? :: chat
+let's play chess :: play_chess
+find local restaurants :: query_selection
+let's talk :: chat
+let's play chess :: play_chess
+how about a chess match? :: play_chess
+tell me a joke :: chat
+find local restaurants :: query_selection
+what's on your mind? :: chat
+ready to play? :: play_chess
+how far is the moon? :: query_selection
+i'm bored :: chat
+do you know any stories? :: chat
+how do you feel? :: chat
+just wanted to say hi :: chat
+i feel like playing chess :: play_chess
+give me today's schedule :: query_selection
+tell me a joke :: chat
+what's the weather like today? :: query_selection
+show me the best laptops :: query_selection
+what's on your mind? :: chat
+start a new chess match :: play_chess
+set up the chess board :: play_chess
+give me today's schedule :: query_selection
+give me today's schedule :: query_selection
+i challenge you in chess :: play_chess
+translate hello to french :: query_selection
+say something funny :: chat
+search wikipedia :: query_selection
+what's on your mind? :: chat
+lookup the stock price of apple :: query_selection
+how about a chess match? :: play_chess
+start a new chess match :: play_chess
+show me the best laptops :: query_selection
+move my queen :: play_chess
+i want to play chess :: play_chess
+what's your favorite movie? :: chat
+translate hello to french :: query_selection
+can we have a conversation? :: chat
+what is the capital of France? :: query_selection
+move my queen :: play_chess
+tell me a joke :: chat
+ready to play? :: play_chess
+how far is the moon? :: query_selection
+move my queen :: play_chess
+move my queen :: play_chess
+start a new chess match :: play_chess
+what's your favorite movie? :: chat
+can we have a conversation? :: chat
+what's on your mind? :: chat
+i challenge you in chess :: play_chess
+just wanted to say hi :: chat
+find local restaurants :: query_selection
+i challenge you in chess :: play_chess
+i challenge you in chess :: play_chess
+ready to play? :: play_chess
+what's your favorite movie? :: chat
+set up the chess board :: play_chess
+define artificial intelligence :: query_selection
+how's your day? :: chat
+i want to play chess :: play_chess
+how far is the moon? :: query_selection
+what's your favorite movie? :: chat
+let's talk :: chat
+ready to play? :: play_chess
+i feel like playing chess :: play_chess
+show me the best laptops :: query_selection
+define artificial intelligence :: query_selection
+search wikipedia :: query_selection
+how far is the moon? :: query_selection
+ready to play? :: play_chess
+how about a chess match? :: play_chess
+i want to play chess :: play_chess
+translate hello to french :: query_selection
+i'm bored :: chat
+say something funny :: chat
+do you know any stories? :: chat
+just wanted to say hi :: chat
+what's on your mind? :: chat
+i'm bored :: chat
+do you know any stories? :: chat
+search wikipedia :: query_selection
+what's your favorite movie? :: chat
+i'm bored :: chat
+search for news :: query_selection
+start a new chess match :: play_chess
+how do you feel? :: chat
+search for news :: query_selection
+i want to play chess :: play_chess
+can we have a conversation? :: chat
+show me the best laptops :: query_selection
+find local restaurants :: query_selection
+how's your day? :: chat
+let's talk :: chat
+give me today's schedule :: query_selection
+i'm bored :: chat
+what's on your mind? :: chat
+what's on your mind? :: chat
+start a new chess match :: play_chess
+let's play chess :: play_chess
+how about a chess match? :: play_chess
+i challenge you in chess :: play_chess
+set up the chess board :: play_chess
+tell me a joke :: chat
+i challenge you in chess :: play_chess
+ready to play? :: play_chess
+ready to play? :: play_chess
+say something funny :: chat
+translate hello to french :: query_selection
+do you know any stories? :: chat
+lookup the stock price of apple :: query_selection
+i feel like playing chess :: play_chess
+show me the best laptops :: query_selection
+can we chat? :: chat
+set up the chess board :: play_chess
+what's the weather like today? :: query_selection
+do you know any stories? :: chat
+how far is the moon? :: query_selection
+how's your day? :: chat
+just wanted to say hi :: chat
+search for news :: query_selection
+i'm bored :: chat
+move the knight to f3 :: play_chess
+set up the chess board :: play_chess
+how do you feel? :: chat
+how about a chess match? :: play_chess
+can we play a game? :: play_chess
+how do you feel? :: chat
+search wikipedia :: query_selection
+i challenge you in chess :: play_chess
+can we have a conversation? :: chat
+ready to play? :: play_chess
+how's your day? :: chat
+search for news :: query_selection
+how do you feel? :: chat
+just wanted to say hi :: chat
+ready to play? :: play_chess
+how far is the moon? :: query_selection
+can we play a game? :: play_chess
+i want to play chess :: play_chess
+how far is the moon? :: query_selection
+i'm bored :: chat
+how far is the moon? :: query_selection
+let's play chess :: play_chess
+let's talk :: chat
+define artificial intelligence :: query_selection
+ready to play? :: play_chess
+how far is the moon? :: query_selection
+move the knight to f3 :: play_chess
+translate hello to french :: query_selection
+search wikipedia :: query_selection
+ready to play? :: play_chess
+translate hello to french :: query_selection
+search for news :: query_selection
+ready to play? :: play_chess
+move the knight to f3 :: play_chess
+let's play chess :: play_chess
+move the knight to f3 :: play_chess
+translate hello to french :: query_selection
+what's your favorite movie? :: chat
+tell me a joke :: chat
+how about a chess match? :: play_chess
+i feel like playing chess :: play_chess
+what is the capital of France? :: query_selection
+i challenge you in chess :: play_chess
+what is the capital of France? :: query_selection
+what's your favorite movie? :: chat
+what is the capital of France? :: query_selection
+what's the weather like today? :: query_selection
+how far is the moon? :: query_selection
+i'm bored :: chat
+set up the chess board :: play_chess
+i challenge you in chess :: play_chess
+search for news :: query_selection
+just wanted to say hi :: chat
+tell me a joke :: chat
+i challenge you in chess :: play_chess
+what's your favorite movie? :: chat
+i challenge you in chess :: play_chess
+what is the capital of France? :: query_selection
+set up the chess board :: play_chess
+let's play chess :: play_chess
+i want to play chess :: play_chess
+play against the computer :: play_chess
+what's on your mind? :: chat
+what's the weather like today? :: query_selection
+i'm bored :: chat
+what's on your mind? :: chat
+what's the weather like today? :: query_selection
+can we play a game? :: play_chess
+i challenge you in chess :: play_chess
+show me the best laptops :: query_selection
+how about a chess match? :: play_chess
+i feel like playing chess :: play_chess
+set up the chess board :: play_chess
+give me today's schedule :: query_selection
+how do you feel? :: chat
+do you know any stories? :: chat
+let's play chess :: play_chess
+show me the best laptops :: query_selection
+what's the weather like today? :: query_selection
+move the knight to f3 :: play_chess
+define artificial intelligence :: query_selection
+do you know any stories? :: chat
+search for news :: query_selection
+say something funny :: chat
+play against the computer :: play_chess
+translate hello to french :: query_selection
+can we play a game? :: play_chess
+lookup the stock price of apple :: query_selection
+i feel like playing chess :: play_chess
+find local restaurants :: query_selection
+search for news :: query_selection
+search wikipedia :: query_selection
+do you know any stories? :: chat
+lookup the stock price of apple :: query_selection
+tell me a joke :: chat
+set up the chess board :: play_chess
+i want to play chess :: play_chess
+just wanted to say hi :: chat
+show me the best laptops :: query_selection
+what's the weather like today? :: query_selection
+start a new chess match :: play_chess
+can we chat? :: chat
+tell me a joke :: chat
+move the knight to f3 :: play_chess
+let's talk :: chat
+can we chat? :: chat
+just wanted to say hi :: chat
+move the knight to f3 :: play_chess
+how many countries are there? :: query_selection
+give me today's schedule :: query_selection
+i'm bored :: chat
+tell me a joke :: chat
+translate hello to french :: query_selection
+give me today's schedule :: query_selection
+move the knight to f3 :: play_chess
+what's the weather like today? :: query_selection
+i challenge you in chess :: play_chess
+translate hello to french :: query_selection
+define artificial intelligence :: query_selection
+what's your favorite movie? :: chat
+can we have a conversation? :: chat
+ready to play? :: play_chess
+can we chat? :: chat
+how about a chess match? :: play_chess
+what's on your mind? :: chat
+what's the weather like today? :: query_selection
+what's the weather like today? :: query_selection
+how's your day? :: chat
+lookup the stock price of apple :: query_selection
+what's on your mind? :: chat
+give me today's schedule :: query_selection
+do you know any stories? :: chat
+what's your favorite movie? :: chat
+just wanted to say hi :: chat
+what is the capital of France? :: query_selection
+let's play chess :: play_chess
+show me the best laptops :: query_selection
+find local restaurants :: query_selection
+lookup the stock price of apple :: query_selection
+let's talk :: chat
+search wikipedia :: query_selection
+give me today's schedule :: query_selection
+define artificial intelligence :: query_selection
+how's your day? :: chat
+say something funny :: chat
+say something funny :: chat
+search for news :: query_selection
+can we play a game? :: play_chess
+let's play chess :: play_chess
+set up the chess board :: play_chess
+lookup the stock price of apple :: query_selection
+how many countries are there? :: query_selection
+let's play chess :: play_chess
+let's play chess :: play_chess
+search for news :: query_selection
+i want to play chess :: play_chess
+find local restaurants :: query_selection
+let's talk :: chat
+what is the capital of France? :: query_selection
+how many countries are there? :: query_selection
+can we have a conversation? :: chat
+translate hello to french :: query_selection
+how's your day? :: chat
+give me today's schedule :: query_selection
+set up the chess board :: play_chess
+can we play a game? :: play_chess
+how far is the moon? :: query_selection
+start a new chess match :: play_chess
+ready to play? :: play_chess
+say something funny :: chat
+show me the best laptops :: query_selection
+how's your day? :: chat
+play against the computer :: play_chess
+how many countries are there? :: query_selection
+search wikipedia :: query_selection
+let's play chess :: play_chess
+translate hello to french :: query_selection
+set up the chess board :: play_chess
+let's play chess :: play_chess
+start a new chess match :: play_chess
+i want to play chess :: play_chess
+translate hello to french :: query_selection
+what's your favorite movie? :: chat
+how about a chess match? :: play_chess
+how many countries are there? :: query_selection
+define artificial intelligence :: query_selection
+find local restaurants :: query_selection
+can we have a conversation? :: chat
+can we play a game? :: play_chess
+search for news :: query_selection
+give me today's schedule :: query_selection
+say something funny :: chat
+i'm bored :: chat
+how far is the moon? :: query_selection
+search for news :: query_selection
+can we play a game? :: play_chess
+translate hello to french :: query_selection
+translate hello to french :: query_selection
+what is the capital of France? :: query_selection
+play against the computer :: play_chess
+how's your day? :: chat
+do you know any stories? :: chat
+what's the weather like today? :: query_selection
+can we have a conversation? :: chat
+how's your day? :: chat
+how many countries are there? :: query_selection
+what's your favorite movie? :: chat
+what's on your mind? :: chat
+how about a chess match? :: play_chess
+i challenge you in chess :: play_chess
+can we play a game? :: play_chess
+can we chat? :: chat
+move my queen :: play_chess
+search wikipedia :: query_selection
+what is the capital of France? :: query_selection
+just wanted to say hi :: chat
+give me today's schedule :: query_selection
+ready to play? :: play_chess
+ready to play? :: play_chess
+give me today's schedule :: query_selection
+translate hello to french :: query_selection
+search for news :: query_selection
+can we have a conversation? :: chat
+just wanted to say hi :: chat
+can we have a conversation? :: chat
+can we have a conversation? :: chat
+translate hello to french :: query_selection
+how do you feel? :: chat
+find local restaurants :: query_selection
+do you know any stories? :: chat
+how's your day? :: chat
+ready to play? :: play_chess
+just wanted to say hi :: chat
+can we have a conversation? :: chat
+how about a chess match? :: play_chess
+how far is the moon? :: query_selection
+can we have a conversation? :: chat
+what's the weather like today? :: query_selection
+do you know any stories? :: chat
+set up the chess board :: play_chess
+just wanted to say hi :: chat
+i challenge you in chess :: play_chess
+what's your favorite movie? :: chat
+play against the computer :: play_chess
+let's talk :: chat
+i want to play chess :: play_chess
+play against the computer :: play_chess
+i challenge you in chess :: play_chess
+i want to play chess :: play_chess
+just wanted to say hi :: chat
+what's your favorite movie? :: chat
+can we chat? :: chat
+lookup the stock price of apple :: query_selection
+give me today's schedule :: query_selection
+what's your favorite movie? :: chat
+how far is the moon? :: query_selection
+i feel like playing chess :: play_chess
+how about a chess match? :: play_chess
+give me today's schedule :: query_selection
+how do you feel? :: chat
+search for news :: query_selection
+search for news :: query_selection
+give me today's schedule :: query_selection
+move the knight to f3 :: play_chess
+can we play a game? :: play_chess
+do you know any stories? :: chat
+what's your favorite movie? :: chat
+i challenge you in chess :: play_chess
+can we play a game? :: play_chess
+start a new chess match :: play_chess
+i want to play chess :: play_chess
+lookup the stock price of apple :: query_selection
+set up the chess board :: play_chess
+move the knight to f3 :: play_chess
+what is the capital of France? :: query_selection
+what's your favorite movie? :: chat
+i feel like playing chess :: play_chess
+what's on your mind? :: chat
+search wikipedia :: query_selection
+what's your favorite movie? :: chat
+just wanted to say hi :: chat
+what is the capital of France? :: query_selection
+move the knight to f3 :: play_chess
+i challenge you in chess :: play_chess
+let's play chess :: play_chess
+play against the computer :: play_chess
+translate hello to french :: query_selection
+what's on your mind? :: chat
+find local restaurants :: query_selection
+tell me a joke :: chat
+what is the capital of France? :: query_selection
+i'm bored :: chat
+how many countries are there? :: query_selection
+play against the computer :: play_chess
+how far is the moon? :: query_selection
+how about a chess match? :: play_chess
+do you know any stories? :: chat
+ready to play? :: play_chess
+i feel like playing chess :: play_chess
+do you know any stories? :: chat
+how far is the moon? :: query_selection
+find local restaurants :: query_selection
+ready to play? :: play_chess
+play against the computer :: play_chess
+how's your day? :: chat
+find local restaurants :: query_selection
+set up the chess board :: play_chess
+do you know any stories? :: chat
+can we have a conversation? :: chat
+i challenge you in chess :: play_chess
+find local restaurants :: query_selection
+just wanted to say hi :: chat
+what is the capital of France? :: query_selection
+i challenge you in chess :: play_chess
+find local restaurants :: query_selection
+search wikipedia :: query_selection
+give me today's schedule :: query_selection
+translate hello to french :: query_selection
+how do you feel? :: chat
+set up the chess board :: play_chess
+tell me a joke :: chat
+how many countries are there? :: query_selection
+how's your day? :: chat
+ready to play? :: play_chess
+lookup the stock price of apple :: query_selection
+i'm bored :: chat
+what is the capital of France? :: query_selection
+how's your day? :: chat
+find local restaurants :: query_selection
+i challenge you in chess :: play_chess
+let's talk :: chat
+show me the best laptops :: query_selection
+say something funny :: chat
+just wanted to say hi :: chat
+define artificial intelligence :: query_selection
+say something funny :: chat
+find local restaurants :: query_selection
+do you know any stories? :: chat
+how do you feel? :: chat
+what's on your mind? :: chat
+search for news :: query_selection
+give me today's schedule :: query_selection
+start a new chess match :: play_chess
+can we play a game? :: play_chess
+search wikipedia :: query_selection
+can we chat? :: chat
+define artificial intelligence :: query_selection
+lookup the stock price of apple :: query_selection
+just wanted to say hi :: chat
+give me today's schedule :: query_selection
+find local restaurants :: query_selection
+what's on your mind? :: chat
+define artificial intelligence :: query_selection
+i'm bored :: chat
+what is the capital of France? :: query_selection
+translate hello to french :: query_selection
+what's your favorite movie? :: chat
+how do you feel? :: chat
+how about a chess match? :: play_chess
+i feel like playing chess :: play_chess
+show me the best laptops :: query_selection
+can we chat? :: chat
+tell me a joke :: chat
+move the knight to f3 :: play_chess
+how about a chess match? :: play_chess
+search for news :: query_selection
+tell me a joke :: chat
+tell me a joke :: chat
+let's play chess :: play_chess
+find local restaurants :: query_selection
+can we chat? :: chat
+how do you feel? :: chat
+i want to play chess :: play_chess
+translate hello to french :: query_selection
+move the knight to f3 :: play_chess
+i want to play chess :: play_chess
+do you know any stories? :: chat
+tell me a joke :: chat
+let's play chess :: play_chess
+do you know any stories? :: chat
+lookup the stock price of apple :: query_selection
+define artificial intelligence :: query_selection
+show me the best laptops :: query_selection
+define artificial intelligence :: query_selection
+how do you feel? :: chat
+move the knight to f3 :: play_chess
+say something funny :: chat
+let's play chess :: play_chess
+i'm bored :: chat
+how many countries are there? :: query_selection
+can we play a game? :: play_chess
+search wikipedia :: query_selection
+translate hello to french :: query_selection
+how far is the moon? :: query_selection
+move the knight to f3 :: play_chess
+what's on your mind? :: chat
+how far is the moon? :: query_selection
+define artificial intelligence :: query_selection
+play against the computer :: play_chess
+what's the weather like today? :: query_selection
+how's your day? :: chat
+i feel like playing chess :: play_chess
+ready to play? :: play_chess
+let's talk :: chat
+tell me a joke :: chat
+let's play chess :: play_chess
+how many countries are there? :: query_selection
+move the knight to f3 :: play_chess
+let's play chess :: play_chess
+can we have a conversation? :: chat
+find local restaurants :: query_selection
+how about a chess match? :: play_chess
+search for news :: query_selection
+move my queen :: play_chess
+give me today's schedule :: query_selection
+give me today's schedule :: query_selection
+move my queen :: play_chess
+how many countries are there? :: query_selection
+how far is the moon? :: query_selection
+say something funny :: chat
+start a new chess match :: play_chess
+can we have a conversation? :: chat
+lookup the stock price of apple :: query_selection
+i want to play chess :: play_chess
+can we play a game? :: play_chess
+can we play a game? :: play_chess
+set up the chess board :: play_chess
+move my queen :: play_chess
+how's your day? :: chat
+i want to play chess :: play_chess
+i'm bored :: chat
+can we play a game? :: play_chess
+how about a chess match? :: play_chess
+i challenge you in chess :: play_chess
+show me the best laptops :: query_selection
+how many countries are there? :: query_selection
+search for news :: query_selection
+start a new chess match :: play_chess
+lookup the stock price of apple :: query_selection
+what's your favorite movie? :: chat
+start a new chess match :: play_chess
+give me today's schedule :: query_selection
+how far is the moon? :: query_selection
+i'm bored :: chat
+how do you feel? :: chat
+how far is the moon? :: query_selection
+what is the capital of France? :: query_selection
+give me today's schedule :: query_selection
+how far is the moon? :: query_selection
+define artificial intelligence :: query_selection
+search for news :: query_selection
+i challenge you in chess :: play_chess
+set up the chess board :: play_chess
+find local restaurants :: query_selection
+give me today's schedule :: query_selection
+give me today's schedule :: query_selection
+i feel like playing chess :: play_chess
+search for news :: query_selection
+let's play chess :: play_chess
+i challenge you in chess :: play_chess
+what's the weather like today? :: query_selection
+say something funny :: chat
+what's on your mind? :: chat
+let's talk :: chat
+can we have a conversation? :: chat
+set up the chess board :: play_chess
+can we chat? :: chat
+lookup the stock price of apple :: query_selection
+what's your favorite movie? :: chat
+start a new chess match :: play_chess
+what's on your mind? :: chat
+show me the best laptops :: query_selection
+say something funny :: chat
+find local restaurants :: query_selection
+how many countries are there? :: query_selection
+move my queen :: play_chess
+what's the weather like today? :: query_selection
+can we play a game? :: play_chess
+i'm bored :: chat
+say something funny :: chat
+start a new chess match :: play_chess
+translate hello to french :: query_selection
+show me the best laptops :: query_selection
+play against the computer :: play_chess
+can we play a game? :: play_chess
+can we chat? :: chat
+what's the weather like today? :: query_selection
+say something funny :: chat
+show me the best laptops :: query_selection
+search for news :: query_selection
+i challenge you in chess :: play_chess
+let's talk :: chat
+can we chat? :: chat
+ready to play? :: play_chess
+i want to play chess :: play_chess
+move my queen :: play_chess
+set up the chess board :: play_chess
+let's talk :: chat
+let's talk :: chat
+play against the computer :: play_chess
+move the knight to f3 :: play_chess
+just wanted to say hi :: chat
+tell me a joke :: chat
+can we have a conversation? :: chat
+i feel like playing chess :: play_chess
+translate hello to french :: query_selection
+show me the best laptops :: query_selection
+how far is the moon? :: query_selection
+lookup the stock price of apple :: query_selection
+i want to play chess :: play_chess
+can we chat? :: chat
+i want to play chess :: play_chess
+let's talk :: chat
+how's your day? :: chat
+search wikipedia :: query_selection
+give me today's schedule :: query_selection
+move the knight to f3 :: play_chess
+i feel like playing chess :: play_chess
+say something funny :: chat
+i'm bored :: chat
+ready to play? :: play_chess
+how about a chess match? :: play_chess
+i challenge you in chess :: play_chess
+can we play a game? :: play_chess
+translate hello to french :: query_selection
+define artificial intelligence :: query_selection
+play against the computer :: play_chess
+what's your favorite movie? :: chat
+what's the weather like today? :: query_selection
+find local restaurants :: query_selection
+can we play a game? :: play_chess
+how far is the moon? :: query_selection
+i want to play chess :: play_chess
+what's your favorite movie? :: chat
+what's your favorite movie? :: chat
+how many countries are there? :: query_selection
+let's play chess :: play_chess
+move my queen :: play_chess
+let's play chess :: play_chess
+define artificial intelligence :: query_selection
+can we chat? :: chat
+find local restaurants :: query_selection
+how about a chess match? :: play_chess
